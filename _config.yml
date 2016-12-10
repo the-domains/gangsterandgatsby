@@ -22,3 +22,9 @@ content: []
 description: >-
   Gangster And Gatsby: A destination experience with exclusive dessert menu, the
   world famous "Gangster Shakes", private label coffee and exceptional service!
+purpose:
+  - type: external
+    url: >-
+      http://widget.dimmi.com.au/step1?restaurantId=32127&referrerUrl=http%3A%2F%2Ffacebook.com&showHeader=True
+    label: >-
+      http://widget.dimmi.com.au/step1?restaurantId=32127&referrerUrl=http%3A%2F%2Ffacebook.com&showHeader=True
